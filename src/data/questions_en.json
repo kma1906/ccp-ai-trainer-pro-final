@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "q": "Which cost estimate is performed during the early project phase?",
+    "a": [
+      "Order-of-magnitude",
+      "Definitive",
+      "Control",
+      "Bid"
+    ],
+    "c": 0,
+    "cat": "Cost Estimating"
+  },
+  {
+    "id": 2,
+    "q": "EAC is typically calculated as:",
+    "a": [
+      "AC + BAC",
+      "AC + ETC",
+      "BAC - EV",
+      "EV + PV"
+    ],
+    "c": 1,
+    "cat": "Earned Value"
+  },
+  {
+    "id": 3,
+    "q": "Which contract has the highest risk to the buyer?",
+    "a": [
+      "Cost Plus Fixed Fee",
+      "Firm Fixed Price",
+      "Time & Materials",
+      "Cost Plus Incentive Fee"
+    ],
+    "c": 2,
+    "cat": "Contracts"
+  },
+  {
+    "id": 4,
+    "q": "Float is defined as:",
+    "a": [
+      "Time task can slip without delaying successors",
+      "Total project duration",
+      "Difference between ES and EF",
+      "None"
+    ],
+    "c": 0,
+    "cat": "Scheduling"
+  },
+  {
+    "id": 5,
+    "q": "Which is a direct cost?",
+    "a": [
+      "Site supervision",
+      "Corporate overhead",
+      "Depreciation",
+      "Insurance"
+    ],
+    "c": 0,
+    "cat": "Cost Accounting"
+  }
+]
