@@ -83,3 +83,5 @@ sk-yourkey-placeholder
 
 ### Notes on security
 - Embedding API keys in code is convenient for demos, but **not secure** for public repos. Replace the placeholder with a real key and consider using Vercel Environment Variables for production.
+- # Redeploy fix
+
